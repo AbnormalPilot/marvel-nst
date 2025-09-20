@@ -14,5 +14,6 @@ Class of 2029
 
 
 ## Deployed on Firebase
-visit: https://checkouthimanshu.web.app
+
+visit: https://marvel-nst.web.app
 
