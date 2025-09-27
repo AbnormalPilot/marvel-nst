@@ -3,7 +3,7 @@
 import React from "react";
 import TextPressure from './ui/TextPressure';
 import { FocusCards } from "@/components/ui/focus-cards";
-export function Movies() {
+export default function Movies() {
   const cards = [
     {
       title: "The Fantastic Four: First Steps",

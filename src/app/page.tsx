@@ -3,7 +3,7 @@
 import CardNav from '@/components/ui/CardNav'
 import Hero from "@/components/hero";
 import {Characters} from "@/components/characters";
-import { Movies } from "@/components/movies";
+import Movies from "@/components/movies";
 import { TVShows } from "@/components/tvshows";
 
 const items = [
